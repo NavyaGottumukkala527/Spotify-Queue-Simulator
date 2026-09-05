@@ -17,7 +17,6 @@ A lightweight, object-oriented Java console application that simulates music pla
 
 ## Project Structure
 
-```text
 spotify-queue-simulator/
 ├── Song.java          # Model representing individual track metadata and formatting
 ├── MusicPlayer.java   # Core execution logic, queue state, and history operations
@@ -37,3 +36,4 @@ spotify-queue-simulator/
 3. Run the program:
    ```bash
    java Main
+   ```text
