@@ -34,6 +34,6 @@ spotify-queue-simulator/
 2. Compile all source files:
    ```bash
    javac *.java
-3. Run the application:
+3. Run the program:
    ```bash
    java Main
