@@ -37,3 +37,8 @@ spotify-queue-simulator/
    ```bash
    java Main
   
+## Future Improvements
+
+* Integrate SQLite database to save user playlists across sessions.
+* Implement JavaFX desktop UI for audio visualizer controls.
+
