@@ -36,4 +36,4 @@ spotify-queue-simulator/
 3. Run the program:
    ```bash
    java Main
-   ```text
+  
